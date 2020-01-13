@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallaceT_Assn1_TDD_MS549", "WallaceT_Assn1_TDD_MS549\WallaceT_Assn1_TDD_MS549.csproj", "{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D9E38A-463F-4DB3-BB53-FE68BA9F8636}
+	EndGlobalSection
+EndGlobal
