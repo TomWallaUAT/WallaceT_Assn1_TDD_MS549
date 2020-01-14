@@ -16,7 +16,7 @@ using System.Windows.Forms;
 
 namespace WallaceT_Assn1_TDD_MS549
 {
-    public partial class frmPushPop : Form
+    public partial class frmPushPop : Form 
     {
         #region Variable Declaration
 #if (Option1)
@@ -27,6 +27,7 @@ namespace WallaceT_Assn1_TDD_MS549
 #endif
 
         private List<string> lsHist = new List<string>();
+        
         #endregion
 
         #region Constructors
@@ -37,7 +38,7 @@ namespace WallaceT_Assn1_TDD_MS549
         #endregion
 
         #region UserMethods
-        private void Pop()
+        public void Pop()
         {
             
             //Removes number from top of Array/Stack

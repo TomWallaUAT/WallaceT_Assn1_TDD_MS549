@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallaceT_Assn1_TDD_MS549", "WallaceT_Assn1_TDD_MS549\WallaceT_Assn1_TDD_MS549.csproj", "{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallaceT_Assn1_TDD_MS549_UnitTest", "WallaceT_Assn1_TDD_MS549_UnitTest\WallaceT_Assn1_TDD_MS549_UnitTest.csproj", "{8C708ABA-B0EE-46C1-96D5-5506FD1B7D26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67D27C0F-35C6-45E0-BD3A-F2F67C0A96E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C708ABA-B0EE-46C1-96D5-5506FD1B7D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C708ABA-B0EE-46C1-96D5-5506FD1B7D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C708ABA-B0EE-46C1-96D5-5506FD1B7D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C708ABA-B0EE-46C1-96D5-5506FD1B7D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
