@@ -8,6 +8,16 @@ namespace WallaceT_Assn1_TDD_MS549
 {
     public class ArrayManager 
     {
+        
+        public ArrayManager()
+        {
+
+        }
+
+        public ArrayManager(int ArraySize)
+        {
+
+        }
 
 
         ~ArrayManager()
