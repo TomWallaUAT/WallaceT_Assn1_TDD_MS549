@@ -256,6 +256,7 @@ namespace WallaceT_Assn1_TDD_MS549
         {
             // Call Pop Method
             Pop();
+            MessageBox.Show(alInts.GetType().ToString());
         }
 
         private void btnPeak_Click(object sender, EventArgs e)
